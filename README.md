@@ -21,7 +21,7 @@ Frontend Developer | HTML, CSS, JavaScript & React
 <h3>📫 Connect with Me</h3>
 
 <p>
-  <a href="mailto:khaledbaloo123o@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=khaledbaloo123o@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
