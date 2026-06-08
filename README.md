@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Khaled Ahmed Banner" />
+</p>
 # Hi, I'm Khaled Ahmed 👋
 
 Frontend Developer | HTML, CSS, JavaScript & React
