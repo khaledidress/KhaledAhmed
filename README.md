@@ -12,12 +12,14 @@ Frontend Developer | HTML, CSS, JavaScript & React
 
 🛠️ Tech Stack
 
-* HTML5
-* CSS3
-* JavaScript
-* React
-* Git
-* GitHub
+<h3>🛠️ Tech Stack</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,github,vscode" />
+  
+</p>
 
 📫 Connect with Me
 
