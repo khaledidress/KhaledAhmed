@@ -16,8 +16,6 @@ Frontend Developer | HTML, CSS, JavaScript & React
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
-  />
-  
 </p>
 
 📫 Connect with Me
